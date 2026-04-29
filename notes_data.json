@@ -1,0 +1,52 @@
+[
+    {
+        "id": "ba7f605d-f659-4bbf-89e9-bbeaea6e12c9",
+        "title": "!",
+        "content": "фыв фвфв фыв фыв фывфф вы фы",
+        "is_favorite": true,
+        "is_archived": false,
+        "is_deleted": false,
+        "created_at": "01.04.2026 11:14",
+        "updated_at": "01.04.2026 11:14"
+    },
+    {
+        "id": "9f36bda8-a2ec-4513-b024-0be1be0bc9a4",
+        "title": "2",
+        "content": "ыфвфывфывфывф",
+        "is_favorite": false,
+        "is_archived": false,
+        "is_deleted": false,
+        "created_at": "01.04.2026 11:14",
+        "updated_at": "01.04.2026 11:44"
+    },
+    {
+        "id": "764c5d6f-9bac-4430-be4d-54d6a8ae28a3",
+        "title": "арх",
+        "content": "ыфв фывфыв фы",
+        "is_favorite": false,
+        "is_archived": true,
+        "is_deleted": false,
+        "created_at": "01.04.2026 11:15",
+        "updated_at": "01.04.2026 11:15"
+    },
+    {
+        "id": "fc3233c4-6ac1-4da2-b3db-eb1585aecedf",
+        "title": "бал",
+        "content": "вфываыаввыпывф тыв аифвыр",
+        "is_favorite": false,
+        "is_archived": false,
+        "is_deleted": true,
+        "created_at": "01.04.2026 11:15",
+        "updated_at": "01.04.2026 11:15"
+    },
+    {
+        "id": "f17e1735-9211-4684-ab0a-9c75339eea31",
+        "title": "Новая заметка 5",
+        "content": "kkkkk",
+        "is_favorite": false,
+        "is_archived": false,
+        "is_deleted": false,
+        "created_at": "01.04.2026 11:44",
+        "updated_at": "01.04.2026 11:44"
+    }
+]
